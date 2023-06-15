@@ -1,0 +1,10 @@
+pandas
+numpy
+keras
+flask
+nltk
+tensorflow
+opencv-python
+scikit-learn
+seaborn
+-e .
