@@ -1,0 +1,6 @@
+README.md
+setup.py
+emotion_detection.egg-info/PKG-INFO
+emotion_detection.egg-info/SOURCES.txt
+emotion_detection.egg-info/dependency_links.txt
+emotion_detection.egg-info/top_level.txt
