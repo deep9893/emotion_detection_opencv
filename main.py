@@ -11,7 +11,7 @@ classifier =load_model(r'model.h5')
 emotion_labels = ['Angry','Disgust','Fear','Happy','Neutral', 'Sad', 'Surprise']
 
 cap = cv2.VideoCapture(0)
-
+# cap = cv2.VideoCapture("C:\\Users\\deepp\\Downloads\\sample.mp4")
 
 while True:
     _, frame = cap.read()
